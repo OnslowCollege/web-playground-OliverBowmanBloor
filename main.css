@@ -1,0 +1,27 @@
+h2 { 
+text-align:center;
+color:blue;
+}
+h1 {
+	background-color:rgb(245, 55, 100);
+	text-align:center;
+}
+a {
+	text-align:center;
+	width:100%;
+	text-decoration:none;
+}
+h3{
+	text-align:center;
+	background-color:lightblue;
+	color:blue;
+}
+div {
+	width:100%;
+}
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
